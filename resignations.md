@@ -1,11 +1,11 @@
 |Name|Type|Job|Reasons|Letter|
 |----|----|---|-------|------|
 |Rishi Sunak|Cabinet Minister|Chancellor|"the public rightly expect government to be conducted properly, competently and seriously...these standards are worth fighting for...our approaches [on the economy] are fundamentally too different"|[gov.uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1088364/Letter_to_the_PM.pdf)|
-|Sajid Javid|Cabinet Minister|Health Secretary|||
-|Will Quince|Minister|Minister for Children and Families|||
-|Alex Chalk|Minister|Solicitor General|||
+|Sajid Javid|Cabinet Minister|Health Secretary||[gov.uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1088367/Letter_to_the_PM_001.pdf)|
+|Will Quince|Minister|Minister for Children and Families||[Twitter](https://twitter.com/willquince/status/1544583312353673217)|
+|Alex Chalk|Minister|Solicitor General||[Twitter](https://twitter.com/AlexChalkChelt/status/1544437737771655169)|
 |John Glen|Minister|City Minister and Economic Secretary to the Treasury|"recent events...poor judgement you have shown...impossible to square continued service with my conscience"|[Twitter](https://twitter.com/JohnGlenUK/status/1544623825307959300)|
-|Robin Walker|Minister|Minister for School Standards|||
+|Robin Walker|Minister|Minister for School Standards||[Twitter](https://twitter.com/WalkerWorcester/status/1544603001670746112)|
 |Victoria Atkins|Minister|Minister of State at the Ministry of Justice||[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
 |Laura Trott|PPS|PPS to the Transport secretary|||
 |Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|||
