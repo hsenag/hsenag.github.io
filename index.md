@@ -1,1 +1,1 @@
-
+[Resignations](resignations.md)
