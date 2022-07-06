@@ -16,7 +16,7 @@
 |Alex Burghart|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Lee Rowley|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Julia Lopez|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
-|Craig Williams|PPS||||
+|Mike Freer|Minister|International Trade||||
 |Mark Logan|PPS||||
 |Duncan Baker|PPS||||
 |Laura Trott|PPS|Transport Secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
@@ -25,8 +25,13 @@
 |Nicola Richards|PPS|Department for Transport||[Twitter](https://twitter.com/Nicola4WBE/status/1544402731770716163)|
 |Virginia Crosbie|PPS|Welsh office|"you cannot be trusted to tell the truth"|[Website](https://virginiacrosbie.co.uk/news/my-resignation-letter-to-the-prime-minister/)|
 |Felicity Buchan|PPS|BEIS|"You have lost the confidence of my constituents and me"|[Twitter](https://twitter.com/FelicityBuchan/status/1544623549213810689)|
+|Mark Fletcher|PPS|BEIS|||
 |David Jonhston|PPS|Education|||
+|Sara Britcliffe|PPS|Education|||
 |Claire Coutinho|PPS|Treasury|||
+|Craig Williams|PPS|Treasury|||
+|Ruth Edwards|PPS|Scottish Office|||
+|Peter Gibson|PPS|International Trade|||
 |Selaine Saxby|PPS|Treasury|"Trust, truth and integrity are vital...loyalty to your government...is no longer compatible with the values I hold dear"|[Twitter](https://twitter.com/SelaineSaxby/status/1544660117760741376)|
 |Bim Afolami|Party Officer|Vice-Chair|||
 |Theo Clarke|Trade Envoy|Kenya||[Twitter](https://mobile.twitter.com/theodoraclarke/status/1544426469660758019)|
