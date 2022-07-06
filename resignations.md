@@ -8,7 +8,7 @@
 |Robin Walker|Minister|Minister for School Standards||[Twitter](https://twitter.com/WalkerWorcester/status/1544603001670746112)|
 |Victoria Atkins|Minister|Minister of State at the Ministry of Justice||[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
 |Laura Trott|PPS|PPS to the Transport secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
-|Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|||
+|Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|"...for too long we have been more focused on dealing with our reputational damage rather than delivering..."|[Twitter](https://twitter.com/journoontheedge/status/1544392843711627265/photo/1) (not sure of original source)|
 |Saqib Bhatti|PPS|PPS to the Health secretary|||
 |Nicola Richards|PPS|PPS to the Department for Transport|||
 |Virginia Crosbie|PPS|PPS at the Welsh office|||
