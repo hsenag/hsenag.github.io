@@ -15,6 +15,9 @@
 |Nicola Richards|PPS|PPS to the Department for Transport||[Twitter](https://twitter.com/Nicola4WBE/status/1544402731770716163)|
 |Virginia Crosbie|PPS|PPS at the Welsh office|"you cannot be trusted to tell the truth"|[Website](https://virginiacrosbie.co.uk/news/my-resignation-letter-to-the-prime-minister/)|
 |Felicity Buchan|PPS|PPS at BEIS|"You have lost the confidence of my constituents and me"|[Twitter](https://twitter.com/FelicityBuchan/status/1544623549213810689)|
+|David Jonhston|PPS|PPS at Education|||
+|Claire Coutinho|PPS|PPS at the Treasury|||
+|Selaine Saxby|PPS|PPS at the Treasury|||
 |Bim Afolami|Party Officer|Vice-Chair of the Conservative Party|||
 |Theo Clarke|Trade Envoy|Trade Envoy to Kenya||[Twitter](https://mobile.twitter.com/theodoraclarke/status/1544426469660758019)|
 |Andrew Murrison|Trade Envoy|Trade Envoy to Morocco||[Twitter](https://mobile.twitter.com/AWMurrison/status/1544385269138350081)|
@@ -22,3 +25,4 @@
 
 Sources:
  - [BBC](https://www.bbc.co.uk/news/live/uk-politics-62048657?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c57720b893776ef334336c%26Recap%3A%20Who%20has%20resigned%3F%262022-07-06T12%3A23%3A36.409Z&ns_fee=0&pinned_post_locator=urn:asset:56dfb1ac-459b-442c-83d1-245b12337564&pinned_post_asset_id=62c57720b893776ef334336c&pinned_post_type=share)
+ - [Twitter](https://twitter.com/hzeffman/status/1544660949851840514)
