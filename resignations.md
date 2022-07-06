@@ -10,11 +10,15 @@
 |Stuart Andrew|Minister|Housing|"given recent events...cannot tolerate [activists] having to defend the indefensible"|[Twitter](https://twitter.com/StuartAndrew/status/1544647660027760641)|
 |Jo Churchill|Minister|Defra|||
 |Mims Davies|Minister|DWP|||
-|Kemi Badenoch|||||
-|Neil O'Brien|||||
-|Alex Burghart|||||
-|Lee Rowley|||||
-|Julia Lopez|||||
+|Rachel Maclean|Minister|Safeguarding||[Twitter](https://twitter.com/redditchrachel/status/1544692210070962177)|
+|Kemi Badenoch|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
+|Neil O'Brien|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
+|Alex Burghart|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
+|Lee Rowley|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
+|Julia Lopez|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
+|Craig Williams|PPS||||
+|Mark Logan|PPS||||
+|Duncan Baker|PPS||||
 |Laura Trott|PPS|Transport Secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
 |Jonathan Gullis|PPS|Northern Ireland Secretary|"...for too long we have been more focused on dealing with our reputational damage rather than delivering..."|[Twitter](https://twitter.com/journoontheedge/status/1544392843711627265/photo/1) (not sure of original source)|
 |Saqib Bhatti|PPS|Health Secretary||[Twitter](https://twitter.com/bhatti_saqib/status/1544393507036602368)|
