@@ -5,7 +5,7 @@
 |Will Quince|Minister|Minister for Children and Families|"briefings I received from No 10...inaccurate...I accepted and repeated those assurances in good faith"|[Twitter](https://twitter.com/willquince/status/1544583312353673217)|
 |Alex Chalk|Minister|Solicitor General|"cannot extend to defending the indefensible...standards of candour...irretrievably broken down...time has therefore come for fresh leadership"|[Twitter](https://twitter.com/AlexChalkChelt/status/1544437737771655169)|
 |John Glen|Minister|City Minister and Economic Secretary to the Treasury|"recent events...poor judgement you have shown...impossible to square continued service with my conscience"|[Twitter](https://twitter.com/JohnGlenUK/status/1544623825307959300)|
-|Robin Walker|Minister|Minister for School Standards||[Twitter](https://twitter.com/WalkerWorcester/status/1544603001670746112)|
+|Robin Walker|Minister|Minister for School Standards|"achievements ... overshadowed by mistakes and questions about integrity"|[Twitter](https://twitter.com/WalkerWorcester/status/1544603001670746112)|
 |Victoria Atkins|Minister|Minister of State at the Ministry of Justice|"Values such as integrity, decency, respect and professionalism...have fractured under your leadership through Patterson, Partygate and Pincher"|[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
 |Stuart Andrew|Minister|Housing Minister|"given recent events...cannot tolerate [activists] having to defend the indefensible"|[Twitter](https://twitter.com/StuartAndrew/status/1544647660027760641)|
 |Jo Churchill|Minister|Defra Minister|||
