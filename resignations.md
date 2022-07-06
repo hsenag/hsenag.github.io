@@ -9,6 +9,12 @@
 |Victoria Atkins|Minister|Minister of State at the Ministry of Justice|"Values such as integrity, decency, respect and professionalism...have fractured under your leadership through Patterson, Partygate and Pincher"|[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
 |Stuart Andrew|Minister|Housing Minister|"given recent events...cannot tolerate [activists] having to defend the indefensible"|[Twitter](https://twitter.com/StuartAndrew/status/1544647660027760641)|
 |Jo Churchill|Minister|Defra Minister|||
+|Mims Davies|Minister|DWP|||
+|Kemi Badenoch|||||
+|Neil O'Brien|||||
+|Alex Burghart|||||
+|Lee Rowley|||||
+|Julia Lopez|||||
 |Laura Trott|PPS|PPS to the Transport secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
 |Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|"...for too long we have been more focused on dealing with our reputational damage rather than delivering..."|[Twitter](https://twitter.com/journoontheedge/status/1544392843711627265/photo/1) (not sure of original source)|
 |Saqib Bhatti|PPS|PPS to the Health secretary||[Twitter](https://twitter.com/bhatti_saqib/status/1544393507036602368)|
