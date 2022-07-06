@@ -12,3 +12,7 @@
 |Bim Afolami|Party Officer|Vice-Chair of the Conservative Party|||
 |Theo Clarke|Trade Envoy|Trade Envoy to Kenya|||
 |Andrew Murrison|Trade Envoy|Trade Envoy to Morocco|||
+
+
+Sources:
+ - [BBC](https://www.bbc.co.uk/news/live/uk-politics-62048657?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c543889db6d5693fa58556%26Recap%3A%20Who%20has%20resigned%3F%262022-07-06T08%3A31%3A29.328Z&ns_fee=0&pinned_post_locator=urn:asset:b47d2333-56c5-4cf1-87fc-bb52eb8087f7&pinned_post_asset_id=62c543889db6d5693fa58556&pinned_post_type=share)
