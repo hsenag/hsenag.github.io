@@ -8,6 +8,7 @@
 |Robin Walker|Minister|Minister for School Standards||[Twitter](https://twitter.com/WalkerWorcester/status/1544603001670746112)|
 |Victoria Atkins|Minister|Minister of State at the Ministry of Justice|"Values such as integrity, decency, respect and professionalism...have fractured under your leadership through Patterson, Partygate and Pincher"|[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
 |Stuart Andrew|Minister|Housing Minister|"given recent events...cannot tolerate [activists] having to defend the indefensible"|[Twitter](https://twitter.com/StuartAndrew/status/1544647660027760641)|
+|Jo Churchill|Minister|Defra Minister|||
 |Laura Trott|PPS|PPS to the Transport secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
 |Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|"...for too long we have been more focused on dealing with our reputational damage rather than delivering..."|[Twitter](https://twitter.com/journoontheedge/status/1544392843711627265/photo/1) (not sure of original source)|
 |Saqib Bhatti|PPS|PPS to the Health secretary||[Twitter](https://twitter.com/bhatti_saqib/status/1544393507036602368)|
@@ -20,4 +21,4 @@
 
 
 Sources:
- - [BBC](https://www.bbc.co.uk/news/live/uk-politics-62048657?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c543889db6d5693fa58556%26Recap%3A%20Who%20has%20resigned%3F%262022-07-06T08%3A31%3A29.328Z&ns_fee=0&pinned_post_locator=urn:asset:b47d2333-56c5-4cf1-87fc-bb52eb8087f7&pinned_post_asset_id=62c543889db6d5693fa58556&pinned_post_type=share)
+ - [BBC](https://www.bbc.co.uk/news/live/uk-politics-62048657?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62c57720b893776ef334336c%26Recap%3A%20Who%20has%20resigned%3F%262022-07-06T12%3A23%3A36.409Z&ns_fee=0&pinned_post_locator=urn:asset:56dfb1ac-459b-442c-83d1-245b12337564&pinned_post_asset_id=62c57720b893776ef334336c&pinned_post_type=share)
