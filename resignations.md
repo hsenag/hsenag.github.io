@@ -17,7 +17,7 @@
 |Felicity Buchan|PPS|PPS at BEIS|"You have lost the confidence of my constituents and me"|[Twitter](https://twitter.com/FelicityBuchan/status/1544623549213810689)|
 |David Jonhston|PPS|PPS at Education|||
 |Claire Coutinho|PPS|PPS at the Treasury|||
-|Selaine Saxby|PPS|PPS at the Treasury|||
+|Selaine Saxby|PPS|PPS at the Treasury|"Trust, truth and integrity are vital...loyalty to your government...is no longer compatible with the values I hold dear"|[Twitter](https://twitter.com/SelaineSaxby/status/1544660117760741376)|
 |Bim Afolami|Party Officer|Vice-Chair of the Conservative Party|||
 |Theo Clarke|Trade Envoy|Trade Envoy to Kenya||[Twitter](https://mobile.twitter.com/theodoraclarke/status/1544426469660758019)|
 |Andrew Murrison|Trade Envoy|Trade Envoy to Morocco||[Twitter](https://mobile.twitter.com/AWMurrison/status/1544385269138350081)|
