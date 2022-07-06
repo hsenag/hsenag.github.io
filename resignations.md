@@ -9,6 +9,7 @@
 |Saqib Bhatti|PPS|PPS to the Health secretary|||
 |Nicola Richards|PPS|PPS to the Department for Transport|||
 |Virginia Crosbie|PPS|PPS at the Welsh office|||
+|Felicity Buchan|PPS|PPS at BEIS||https://twitter.com/FelicityBuchan/status/1544623549213810689|
 |Bim Afolami|Party Officer|Vice-Chair of the Conservative Party|||
 |Theo Clarke|Trade Envoy|Trade Envoy to Kenya|||
 |Andrew Murrison|Trade Envoy|Trade Envoy to Morocco|||
