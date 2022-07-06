@@ -7,7 +7,7 @@
 |John Glen|Minister|City Minister and Economic Secretary to the Treasury|"recent events...poor judgement you have shown...impossible to square continued service with my conscience"|[Twitter](https://twitter.com/JohnGlenUK/status/1544623825307959300)|
 |Robin Walker|Minister|Minister for School Standards||[Twitter](https://twitter.com/WalkerWorcester/status/1544603001670746112)|
 |Victoria Atkins|Minister|Minister of State at the Ministry of Justice||[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
-|Laura Trott|PPS|PPS to the Transport secretary|||
+|Laura Trott|PPS|PPS to the Transport secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
 |Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|||
 |Saqib Bhatti|PPS|PPS to the Health secretary|||
 |Nicola Richards|PPS|PPS to the Department for Transport|||
