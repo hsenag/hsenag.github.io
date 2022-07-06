@@ -11,7 +11,7 @@
 |Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|"...for too long we have been more focused on dealing with our reputational damage rather than delivering..."|[Twitter](https://twitter.com/journoontheedge/status/1544392843711627265/photo/1) (not sure of original source)|
 |Saqib Bhatti|PPS|PPS to the Health secretary||[Twitter](https://twitter.com/bhatti_saqib/status/1544393507036602368)|
 |Nicola Richards|PPS|PPS to the Department for Transport||[Twitter](https://twitter.com/Nicola4WBE/status/1544402731770716163)|
-|Virginia Crosbie|PPS|PPS at the Welsh office||[Website](https://virginiacrosbie.co.uk/news/my-resignation-letter-to-the-prime-minister/)|
+|Virginia Crosbie|PPS|PPS at the Welsh office|"you cannot be trusted to tell the truth"|[Website](https://virginiacrosbie.co.uk/news/my-resignation-letter-to-the-prime-minister/)|
 |Felicity Buchan|PPS|PPS at BEIS|"You have lost the confidence of my constituents and me"|[Twitter](https://twitter.com/FelicityBuchan/status/1544623549213810689)|
 |Bim Afolami|Party Officer|Vice-Chair of the Conservative Party|||
 |Theo Clarke|Trade Envoy|Trade Envoy to Kenya||[Twitter](https://mobile.twitter.com/theodoraclarke/status/1544426469660758019)|
