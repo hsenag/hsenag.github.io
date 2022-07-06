@@ -6,6 +6,7 @@
 |Alex Chalk|Minister|Solicitor General|||
 |John Glen|Minister|City Minister and Economic Secretary to the Treasury|"recent events...poor judgement you have shown...impossible to square continued service with my conscience"|[Twitter](https://twitter.com/JohnGlenUK/status/1544623825307959300)|
 |Robin Walker|Minister|Minister for School Standards|||
+|Victoria Atkins|Minister|||[Instagram](https://www.instagram.com/p/CfqtAkmgEbC/?hl=en)|
 |Laura Trott|PPS|PPS to the Transport secretary|||
 |Jonathan Gullis|PPS|PPS to the Northern Ireland secretary|||
 |Saqib Bhatti|PPS|PPS to the Health secretary|||
