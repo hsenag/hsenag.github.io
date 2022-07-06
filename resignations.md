@@ -31,7 +31,7 @@
 |Claire Coutinho|PPS|Treasury|||
 |Craig Williams|PPS|Treasury|||
 |Ruth Edwards|PPS|Scottish Office|||
-|Peter Gibson|PPS|International Trade|||
+|Peter Gibson|PPS|International Trade||[Twitter](https://twitter.com/Gibbo4Darlo/status/1544716395656531968)|
 |Selaine Saxby|PPS|Treasury|"Trust, truth and integrity are vital...loyalty to your government...is no longer compatible with the values I hold dear"|[Twitter](https://twitter.com/SelaineSaxby/status/1544660117760741376)|
 |Bim Afolami|Party Officer|Vice-Chair|||
 |Theo Clarke|Trade Envoy|Kenya||[Twitter](https://mobile.twitter.com/theodoraclarke/status/1544426469660758019)|
