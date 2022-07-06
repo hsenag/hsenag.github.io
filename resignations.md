@@ -1,6 +1,6 @@
 |Name|Type|Job|Reasons|Letter|
 |----|----|---|-------|------|
-|Rishi Sunak|Cabinet Minister|Chancellor|||
+|Rishi Sunak|Cabinet Minister|Chancellor|"the public rightly expect government to be conducted properly, competently and seriously...these standards are worth fighting for...our approaches [on the economy] are fundamentally too different"|[gov.uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1088364/Letter_to_the_PM.pdf)|
 |Sajid Javid|Cabinet Minister|Health Secretary|||
 |Will Quince|Minister|Minister for Children and Families|||
 |Alex Chalk|Minister|Solicitor General|||
