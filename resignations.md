@@ -2,6 +2,7 @@
 |----|----|---|-------|------|
 |Rishi Sunak|Cabinet Minister|Chancellor|"the public rightly expect government to be conducted properly, competently and seriously...these standards are worth fighting for...our approaches [on the economy] are fundamentally too different"|[gov.uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1088364/Letter_to_the_PM.pdf)|
 |Sajid Javid|Cabinet Minister|Health|"the public are concluding that we are now neither [popular nor competent]...you have lost my confidence"|[gov.uk](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1088367/Letter_to_the_PM_001.pdf)|
+|Brandon Lewis|Cabinet Minister|Northern Ireland||[Twitter](https://twitter.com/BrandonLewis/status/1544921034368901122)|
 |Will Quince|Minister|Children and Families|"briefings I received from No 10...inaccurate...I accepted and repeated those assurances in good faith"|[Twitter](https://twitter.com/willquince/status/1544583312353673217)|
 |Alex Chalk|Minister|Solicitor General|"cannot extend to defending the indefensible...standards of candour...irretrievably broken down...time has therefore come for fresh leadership"|[Twitter](https://twitter.com/AlexChalkChelt/status/1544437737771655169)|
 |John Glen|Minister|City Minister and Economic Secretary to the Treasury|"recent events...poor judgement you have shown...impossible to square continued service with my conscience"|[Twitter](https://twitter.com/JohnGlenUK/status/1544623825307959300)|
@@ -16,7 +17,8 @@
 |Alex Burghart|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Lee Rowley|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Julia Lopez|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
-|Mike Freer|Minister|International Trade||||
+|Mike Freer|Minister|International Trade|||
+|Helen Whately|Minister|Exchequer Secretary to Treasury||[Twitter](https://twitter.com/Helen_Whately/status/1544921576449183745)|
 |Mark Logan|PPS||||
 |Duncan Baker|PPS||||
 |Laura Trott|PPS|Transport Secretary|"Trust in politics is - and must always be - of the utmost importance, but sadly in recent months this has been lost. "|[Facebook](https://www.facebook.com/lauratrottmp/posts/pfbid02kyFPEESsHdpJw84iJVNVNZe7TxA74r7svQ29T5wPdEMpspmRZ9VDsLDf4oNXsMS4l)|
