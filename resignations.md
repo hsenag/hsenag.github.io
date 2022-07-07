@@ -11,6 +11,7 @@
 |Stuart Andrew|Minister|Housing|"given recent events...cannot tolerate [activists] having to defend the indefensible"|[Twitter](https://twitter.com/StuartAndrew/status/1544647660027760641)|
 |Jo Churchill|Minister|Defra|||
 |Mims Davies|Minister|DWP|||
+|Chris Philp|Minister|Tech and Digital Economy||[Twitter](https://twitter.com/CPhilpOfficial/status/1544939888931635200)|
 |Rachel Maclean|Minister|Safeguarding||[Twitter](https://twitter.com/redditchrachel/status/1544692210070962177)|
 |Kemi Badenoch|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Neil O'Brien|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
