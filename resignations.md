@@ -19,6 +19,7 @@
 |Lee Rowley|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Julia Lopez|Minister|||[Twitter](https://twitter.com/KemiBadenoch/status/1544673839363268616)|
 |Mike Freer|Minister|International Trade|||
+|James Cartlidge|Minister|Courts||[Twitter](https://twitter.com/jcartlidgemp/status/1544941714925912065)|
 |Helen Whately|Minister|Exchequer Secretary to Treasury||[Twitter](https://twitter.com/Helen_Whately/status/1544921576449183745)|
 |Mark Logan|PPS||||
 |Duncan Baker|PPS||||
